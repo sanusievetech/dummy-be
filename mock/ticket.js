@@ -7,7 +7,7 @@ const dummyTicket = [
     {
         ticketId: "TKD123457",
         customer: "Sandra Rahmawati",
-        gateStatus: false
+        gateStatus: true
     },
     {
         ticketId: "TKD123458",
